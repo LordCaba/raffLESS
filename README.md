@@ -7,7 +7,7 @@ Before you begin, ensure you have met the following requirements:
 - private key
 # QuickStart
 ```
-Download latest version and follow the guides provided in the discord server (accessible only through membership)
+Download latest version and follow the guides provided in the discord server (accessible with membership)
 ```
 
 All needed files and folders will be automatically created and saved inside the main raffLESS folder, make sure to fill the `settings.txt` file
