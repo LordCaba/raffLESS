@@ -13,5 +13,5 @@ Download latest version and follow the guides provided in the discord server (ac
 All needed files and folders will be automatically created and saved inside the main raffLESS folder  
 Make sure to fill the `settings.txt` file
 # Contacts
-Twitter: [Link to Twitter](https://twitter.com/raffLESS_)  
+Twitter: [@raffLESS_](https://twitter.com/raffLESS_)  
 Email: info.raffless@gmail.com
