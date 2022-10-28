@@ -15,4 +15,4 @@ All needed files and folders will be automatically created and saved inside the 
 Make sure to fill the `settings.json` file
 # Contacts
 Twitter: [@raffLESS_](https://twitter.com/raffLESS_)  
-Email: info.raffless@gmail.com
+Email: support@raffless.it
