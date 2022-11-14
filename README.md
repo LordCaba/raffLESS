@@ -4,7 +4,7 @@ raffLESS versions repository
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
 - raffLESS active membership
-- private key
+- personal private key
 # QuickStart
 ```
 Download latest version and follow the guides provided in the discord server (accessible with membership)
